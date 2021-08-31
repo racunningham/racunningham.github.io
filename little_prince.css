@@ -1,0 +1,33 @@
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.underline {
+    text-decoration: underline;
+    font-size: 20pt;
+}
+
+.highlight{
+    background-color: orange;
+    font-size: 20pt;
+}
+
+.boldred{
+    color: red;
+    font-weight: bolder;
+    font-size: 20pt;
+}
+
+
+div {
+    font-size: 20pt;
+}
+
+p {
+    font-size: 20pt;
+}
